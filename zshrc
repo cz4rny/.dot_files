@@ -23,7 +23,7 @@ unsetopt autocd bgnice beep menucomplete
 
 # unsetopt autoparamslash
 
-bindkey -e
+bindkey -v
 
 preexec() {
     print -rn -- $terminfo[cuu1]
