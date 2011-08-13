@@ -57,6 +57,7 @@ alias vi="vim"
 alias ci="echo \"You probably meant vi. Or are you still using RCS?\"; false"
 alias dc="echo \"You don't really use 'dc', do you?\"; false"
 alias grep="grep --color=auto"
+alias git="SSH_AUTH_SOCK=0 git"
 
 # shortcuts
 alias :q='logout'
