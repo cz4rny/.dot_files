@@ -1,7 +1,7 @@
 " Vim RC
 "
-" Maintainer: Łukasz Langa <lukasz@langa.pl>
-
+" Author: Łukasz Langa <lukasz@langa.pl>
+" Maintaner: Cezary Krzyżanowski <cezary.krzyzanowski@gmail.com>
 " Bootstrap settings:
 " - reset previously set environmental settings
 " - don't allow specific files to override settings from this file
@@ -232,7 +232,7 @@ let Tlist_Use_Right_Window=1
 "let Tlist_Use_Horiz_Window=1
 let Tlist_Compact_Format=1
 
-let snips_author='Łukasz Langa'
+let snips_author='Cezary Krzyżanowski'
 
 let bufExplorerFindActive=0
 let bufExplorerShowRelativePath=1

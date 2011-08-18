@@ -39,6 +39,7 @@ alias arrakis="ssh -Yp26 ambv@193.33.35.202"
 alias giediprime="ssh -Yp26 ambv@193.33.35.203"
 alias landsraad-tunnel-5900="ssh -Yp26 ambv@193.33.35.200 -L 5900:localhost:5900 -N"
 alias landsraad-tunnel-5901="ssh -Yp26 ambv@193.33.35.200 -L 5901:localhost:5901 -N"
+alias pogorzelisko="ssh czarny@195.110.48.39"
 
 # ALLPLAY
 alias allegra="ssh -Yp58881 root@ster-gaming.pl"
